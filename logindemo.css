@@ -1,0 +1,47 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    height: 100vh;
+    margin-bottom: 50vh;
+    padding: 150px;
+}
+
+.container{
+    background-color: blue;
+    height: 35vh;
+    width: 50vh;
+    text-align: center;
+    border-radius: 10px;
+    padding: 50px;
+    box-shadow: 0 3px 5px black;
+    border: 3px solid black;
+    
+    
+}
+.inputdata{
+    margin-bottom: 40px;
+}
+.inputdata label{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    text-align: left;
+    margin-bottom: 15px;
+}
+.inputdata
+    input[type="text"]
+    input[type="passward"]{
+    background-color: aqua;
+    width: 100px;
+    padding: 5x;
+    }
+.submitbutton
+    button[type="submit"]{
+    background-color: blueviolet;
+    color: seashell;
+    padding: 10px;
+    width: 80px;
+    border-radius: 30px ;
+    }
+
